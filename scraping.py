@@ -85,9 +85,10 @@ def mars_facts():
         df.set_index('description', inplace=True)
     
     except BaseException:
+        print('an Error ocurreds')
         return None
   
-    return df.html()
+    return df.to_html()
 
 if __name__ == "__main__":
     # If running as script, print scraped data
