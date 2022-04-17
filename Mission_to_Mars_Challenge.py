@@ -109,7 +109,7 @@ def mars_facts():
       
     except BaseException:
         return None
-    print(df)
+    #print(df)
     return df.to_html(classes=["table","table-bordered", "table-striped", "table-hover","table-responsive"],header = "true", justify = "center")
 
 
@@ -148,7 +148,7 @@ def mars_hemispheres(browser):
         hemisphere_image_urls.append({'img_url':img_url, 'title':title})
 
     # 4. Print the list that holds the dictionary of each image url and title.
-    print(hemisphere_image_urls)
+    #print(hemisphere_image_urls)
     return hemisphere_image_urls
 
 
@@ -175,7 +175,7 @@ def find_full_image_hemispheres(url,title_link,browser):
         img_url = f'{url}{full_img_src}'
 
     except AttributeError as e:
-        print(str(e))
+        #print(str(e))
         return None
     return img_url
 
