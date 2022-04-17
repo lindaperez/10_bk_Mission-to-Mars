@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-A Data Scientist required a Web App to display the information about the existence of water in MARS. To help with the important task. A Web scraping is developed using some cutting-edge technologies {Flask, Python, MongoDB, Splinter, Beutiful Soup, Bootstrap, HTML, CSS} 
+A Data Scientist required a Web App to display information about the existence of water in MARS. To help with the important task. A Web scraping is developed using some cutting-edge technologies {Flask, Python, MongoDB, Splinter, Beutiful Soup, Bootstrap, HTML, CSS} 
 
 ## Resources
 
