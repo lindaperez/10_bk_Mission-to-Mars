@@ -15,4 +15,4 @@ A Data Scientist required a Web App to display the information about the existen
 With a click in the button "Scrape New Data" it is possible to extract all the information required about MARS and display it with serious and friendly interface.
  
  
-![MissionToMars](https://github.com/lindaperez/Mission-to-Mars-/blob/main/static/images/mission.jpg)
+![MissionToMars](https://github.com/lindaperez/Mission-to-Mars-/blob/main/static/images/mission.png)
